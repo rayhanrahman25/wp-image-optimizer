@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Auto Image Optimizer
+Plugin Name: WP Image Compressor
 Description: Smart image compression with notifications and stats
 Version: 1.4
 Author: Your Name
