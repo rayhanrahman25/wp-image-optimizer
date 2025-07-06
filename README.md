@@ -1,1 +1,1 @@
-# wp-image-optimizer
+# WP Image Compressor
